@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "links-aulas/",
+  "homepage": "https://beatavernaro.github.io/links-aulas/",
   "eslintConfig": {
     "extends": [
       "react-app",
