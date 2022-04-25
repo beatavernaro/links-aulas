@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/links-aulas/static/css/main.b29b8258.css",
-    "main.js": "/links-aulas/static/js/main.358f4255.js",
-    "static/js/787.ad78bd13.chunk.js": "/links-aulas/static/js/787.ad78bd13.chunk.js",
-    "static/media/logo.svg": "/links-aulas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/links-aulas/index.html",
-    "main.b29b8258.css.map": "/links-aulas/static/css/main.b29b8258.css.map",
-    "main.358f4255.js.map": "/links-aulas/static/js/main.358f4255.js.map",
-    "787.ad78bd13.chunk.js.map": "/links-aulas/static/js/787.ad78bd13.chunk.js.map"
+    "main.css": "/beatavernaro/beatavernaro.github.io/links-aulas/static/css/main.b29b8258.css",
+    "main.js": "/beatavernaro/beatavernaro.github.io/links-aulas/static/js/main.5b5b0c6a.js",
+    "static/js/787.ad78bd13.chunk.js": "/beatavernaro/beatavernaro.github.io/links-aulas/static/js/787.ad78bd13.chunk.js",
+    "static/media/logo.svg": "/beatavernaro/beatavernaro.github.io/links-aulas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beatavernaro/beatavernaro.github.io/links-aulas/index.html",
+    "main.b29b8258.css.map": "/beatavernaro/beatavernaro.github.io/links-aulas/static/css/main.b29b8258.css.map",
+    "main.5b5b0c6a.js.map": "/beatavernaro/beatavernaro.github.io/links-aulas/static/js/main.5b5b0c6a.js.map",
+    "787.ad78bd13.chunk.js.map": "/beatavernaro/beatavernaro.github.io/links-aulas/static/js/787.ad78bd13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b29b8258.css",
-    "static/js/main.358f4255.js"
+    "static/js/main.5b5b0c6a.js"
   ]
 }
